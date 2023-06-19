@@ -1,4 +1,5 @@
 # Hey, I'm Geron.
+I'm a Software Engineer living in London. I'm passionate about coding and make it my mission to always be learning something new!
 
 ### Get in touch
 <a href="mailto:geron65@hotmail.co.uk"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
